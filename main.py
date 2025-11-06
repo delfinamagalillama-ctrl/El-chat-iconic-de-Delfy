@@ -1,4 +1,3 @@
-# El-chat-iconic-de-Delfy
 #LIBRERIAS
 import streamlit as st
 import groq
