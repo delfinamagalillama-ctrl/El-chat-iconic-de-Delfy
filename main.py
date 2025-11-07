@@ -15,9 +15,9 @@ MODELOS = ["llama-3.1-8b-instant", "llama-3.3-70b-versatile", "llama-guard-4-12b
 #MODELO ELEGIDO POR EL USUARIO
 def configurar_pagina():
 
-    st.set_page_config(page_title="El chat iconic de Delfy 💋", page_icon= "💄")
+    st.set_page_config(page_title="El chat iconic de Delfy 💋✨", page_icon= "💄")
 
-    st.title("El chat iconic de Delfy 💋")
+    st.title("El chat iconic de Delfy 💋✨")
 
     st.sidebar.title("Seleccion de modelos")
 
