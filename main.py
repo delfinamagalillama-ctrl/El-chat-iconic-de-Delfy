@@ -91,3 +91,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+[theme]
+backgroundColor="#466942"
+secondaryBackgroundColor="#6fa65d"
+textColor="#ffffff"
